@@ -1,5 +1,5 @@
 # Experiment-2--Implementation-of-Perceptron
-##AIM:
+## AIM:
 
 To implement a perceptron for classification using Python
 
@@ -42,7 +42,7 @@ Plot the error for each iteration
 Print the accuracy
 
 
- PROGRAM:
+##  PROGRAM:
  ```
  import numpy as np
 import pandas as pd
