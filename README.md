@@ -110,3 +110,18 @@ plt.xlabel('Epoch')
 plt.ylabel('Errors')
 plt.show()
 ```
+## OUTPUT:
+###  DATASET:
+![l1](https://user-images.githubusercontent.com/94184990/232313900-d76071cb-2694-446d-b5b5-af74ba18cb2f.png)
+
+### Scatter Plot:
+![l2](https://user-images.githubusercontent.com/94184990/232313962-1c2a9807-e824-41ea-a34f-bc94253277b2.png)
+
+
+### ERROR PLOT:
+![l3](https://user-images.githubusercontent.com/94184990/232313923-5b2d99dc-8c4a-4a5c-aa0b-93153ca5ef93.png)
+
+### ACCURACY:
+![l4](https://user-images.githubusercontent.com/94184990/232313930-b0972ccb-c2c2-4ed9-9b2e-0959745523de.png)
+
+## Result:
