@@ -124,4 +124,5 @@ plt.show()
 ### ACCURACY:
 ![l4](https://user-images.githubusercontent.com/94184990/232313930-b0972ccb-c2c2-4ed9-9b2e-0959745523de.png)
 
-## Result:
+## RESULT:
+Thus a perceptron for classification is implemented using python
