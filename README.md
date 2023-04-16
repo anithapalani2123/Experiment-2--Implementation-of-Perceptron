@@ -1,7 +1,9 @@
 # Experiment-2--Implementation-of-Perceptron
-## AIM:
 
-To implement a perceptron for classification using Python
+###  NAME: ANITHA P
+### REGISTER NO: 212221240004
+## AIM:
+     To implement a perceptron for classification using Python
 
 EQUIPMENTS REQUIRED:
 Hardware – PCs
